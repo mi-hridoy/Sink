@@ -17,8 +17,8 @@
   },
   "analytics_engine_datasets": [
     {
-      "binding": "ANALYTICS",
-      "dataset": "sink"
+      "binding": "blanalytics",
+      "dataset": "blanalytics"
     }
   ],
   "kv_namespaces": [
