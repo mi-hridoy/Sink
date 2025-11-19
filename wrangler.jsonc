@@ -15,16 +15,16 @@
   "ai": {
     "binding": "AI"
   },
- 
-  {
   "analytics_engine_datasets": [
-    { "binding": "BL_Link_Analytics", "dataset": "blanalytics" }
-  ]
-  },
+    {
+      "binding": "BL_Link_Analytics",
+      "dataset": "blanalytics"
+    }
+  ],
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "8712ae5757ab43d1bb06d2b8f182b2f2" // IMPORTANT: Change this to your KV namespace ID
+      "id": "8712ae5757ab43d1bb06d2b8f182b2f2"
     }
   ]
 }
