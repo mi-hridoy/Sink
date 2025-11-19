@@ -15,12 +15,12 @@
   "ai": {
     "binding": "AI"
   },
+ 
+  {
   "analytics_engine_datasets": [
-    {
-      "binding": "blanalytics",
-      "dataset": "blanalytics"
-    }
-  ],
+    { "binding": "BL_Link_Analytics", "dataset": "blanalytics" }
+  ]
+  },
   "kv_namespaces": [
     {
       "binding": "KV",
